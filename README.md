@@ -17,6 +17,6 @@ Visibilidade de Lucro: Histórico detalhado de faturamento por período.
 Escalabilidade: Estrutura de dados pronta para ser integrada a uma API de e-commerce no futuro.
 
 📂 Estrutura do Projeto:
-├── loja_varejo_v3.py      # Script principal da aplicação
-├── loja_varejo.db         # Banco de Dados SQLite (gerado automaticamente)
+└── loja_varejo_v3.py      # Script principal da aplicação
+└── loja_varejo.db         # Banco de Dados SQLite (gerado automaticamente)
 └── README.md              # Documentação do projeto
